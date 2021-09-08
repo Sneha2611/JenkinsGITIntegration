@@ -1,0 +1,4 @@
+com\flipkart\qa\testcases\FKHomePageTest.class
+com\flipkart\qa\testcases\FKLoginPageTest.class
+com\flipkart\qa\testcases\FKLandingPageTest.class
+com\flipkart\qa\testcases\FKWatchPageTest.class
